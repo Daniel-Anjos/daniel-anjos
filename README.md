@@ -6,7 +6,7 @@ I love solving problems using programming.
 I am a QA automation developer and study other staks when I'm not working. :computer:
 <!--
 **Daniel-Anjos/daniel-anjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
+
 
 🔭 I’m currently working on Serasa Experian
 🌱 I’m currently learning NodeJS, Golang and Java
