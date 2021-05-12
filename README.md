@@ -6,7 +6,7 @@ I love solving problems using programming.
 I am a QA automation developer and study other staks when I'm not working. :computer:
 
 <br/> 🔭 I’m currently working on Serasa Experian
-<br/> 🌱 I’m currently learning NodeJS, Golang and Java
+<br/> 🌱 I’m currently learning NodeJS, Golang
 <br/> 🤔 I’m looking for help with Golang automated tests
 <br/> 💬 Ask me about automated tests in Javascript
 <br/> 📫 How to reach me:
